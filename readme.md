@@ -15,6 +15,6 @@
 
 # How to run the code:
 ### 1. First use the short cut - `cmd,shift,P` to run commands
-### 2. select the option to select the interpreter
+### 2. Select the option to select the interpreter
 ### 3. Then type in the name of your virtual environment
 ### 4. Click the run button in the top right
